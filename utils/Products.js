@@ -26,7 +26,7 @@ export const productData = {
         'A fertilizer that provides essential potassium and nitrogen for plant health and yield improvement.',
       image: '/productImage4.JPG',
     },
-  ], 
+  ],
   plastics: [
     {
       category: 'Plastics',
@@ -67,7 +67,19 @@ export const productData = {
       category: 'Food',
       title: 'Ammonium Bicarbonate',
       description: 'A leavening agent used in baking to make dough rise.',
-      image: '/productImage1.JPG',
+      image: '/productImage27.JPG',
+    },
+    {
+      category: 'Food',
+      title: 'Dextrose Monohydrate',
+      description: 'A naturally occurring form of glucose used as a sweetener and energy source.',
+      image: '/productImage34.JPG',
+    },
+    {
+      category: 'Food',
+      title: 'Dextrose Anhydrous',
+      description: 'A purified, crystallized form of glucose used in food and pharmaceutical products.',
+      image: '/productImage5.JPG',
     },
     {
       category: 'Food',
