@@ -49,7 +49,7 @@ import ProductComp from '@/components/HomeViewComponents/ProductComp.vue'
           </p>
         </div>
 
-        <img src="../assets/CEO.jpg" alt="" class="w-[50%] sm:w-[100%] rounded-lg"/>
+        <img src="../assets/CEON.jpg" alt="" class="w-[50%] sm:w-[100%] rounded-lg"/>
       </div>
 
       <ProductComp />
